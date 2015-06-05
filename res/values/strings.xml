@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Power</string>
+    <string name="goto_setting">goto Setting</string>
+    <string name="goto_fail">Launch System Setting UI Failed</string>
+    <string name="cur_governor">current governor</string>
+    <string name="all_governor">all governor</string>
+
+    <string name="governor_desp0">\nTips: \n\n</string>
+    <string name="governor_desp1">interactive - auto fast\n</string>
+    <string name="governor_desp2">conservative - auto slow\n</string>
+    <string name="governor_desp3">ondemand - auto\n</string>
+    <string name="governor_desp4">userspace - user define\n</string>
+    <string name="governor_desp5">powersave - Slow\n</string>
+    <string name="governor_desp6">performance - Fast\n</string>
+</resources>
