@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Power</string>
+    <string name="app_name">BatteryControl</string>
     <string name="goto_setting">goto Setting</string>
     <string name="goto_fail">Launch System Setting UI Failed</string>
     <string name="cur_governor">current governor</string>
